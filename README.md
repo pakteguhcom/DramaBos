@@ -78,7 +78,6 @@ com.sonzaix.shortxrama
 
 Aplikasi ini adalah proyek hobi/edukasi. Konten video diambil dari API pihak ketiga. Pengembang tidak menyimpan konten video di server sendiri. Ketersediaan konten sepenuhnya bergantung pada status server sumber.
 
----
-Developed with ❤️ by [**Sonzai X**](https://t.me/November2k)
----
-Special thanks to @yourealya for API support.
+## Information
+- Developed with ❤️ by [**Sonzai X**](https://t.me/November2k)
+- Download Release on Telegram [**Recycle of Sonzai X シ**](https://t.me/November2kBio)
